@@ -1,0 +1,6 @@
+i test lines using vi editor
+
+fghjkl
+ghjkl
+
+
